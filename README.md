@@ -1,1 +1,3 @@
 # Challenges
+
+**Note:*** *Monthly updates*
