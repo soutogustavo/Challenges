@@ -16,3 +16,5 @@
 - Goal: Predict operating hours and fuel consumption of engines.
 - Domain: Telematics device manufacturer.
 - Technologies: Python 3.x, Timeseries, statsmodels, Numpy, Pandas, etc.
+
+>> **Important remark:** CHAL-03 contains graphs which were created using plotly library. Unfortunately, you might not see them due to a Git's limitation. 
