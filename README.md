@@ -18,3 +18,8 @@
 - Technologies: Python 3.x, Timeseries, statsmodels, Numpy, Pandas, etc.
 
 > **Important remark:** CHAL-03 contains graphs which were created using plotly library. Unfortunately, you might not see them due to a Git's limitation. 
+
+## CHAL-04:
+- Goal: Find the most influential person in a social network.
+- Domain: Consultancy company :: social network analysis.
+- Technologies: Python 2.7, Numpy, Pandas, Networkx, RESTful API, Flask, etc.
